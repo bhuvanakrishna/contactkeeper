@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://bhuvanakrishna:756913679@learningmern-t9abd.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "bhuvanakrishna"
+}
